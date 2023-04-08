@@ -1,32 +1,25 @@
 # best-free-places-to-learn-code
-# 40 Best Free Places To Learn Coding in 2021
 
-Are you a computer nerd who enjoys the web creation technological part?
 
-Are you a blogger who likes to reach out to people through quality content and create a user-friendly site interface?
+In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
-If your answer is “yes” to any of the above queries, then you probably need to learn how to write code on your own.
-
-In this article, we take a closer look at the 40 amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
-
-The objective of this blog is to reveal the features offered by each of the 40 free code learning resources to encourage you to start coding on your own.
+The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
- <font color="blue">Text</font> 
+ <font color="blue"></font> 
 
-One of the most popular free places to learn to code is [Codeacademy](https://www.codecademy.com/). In fact, more than 45 million people have already learned how to code through this educational company’s engaging experience. 
+ [Codeacademy](https://www.codecademy.com/) is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, and Swift, as well as markup languages HTML and CSS .
+ 
+ - [Wikipedia](https://en.wikipedia.org/wiki/Codecademy)
 
-- HTML, CSS, Python, Ruby, and much more
-- Website Development
-- SQL and Git Version
-- Expertise in Command Line
 
 ## 2. [Coursera](https://www.coursera.org/)
 
-Founded in 2012, [Coursera](https://www.coursera.org/) has grown into a major for-profit educational-technology company that has offered more than 1,000 courses from 119 institutions.
+[Coursera](https://www.coursera.org/) Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
 
 This is a huge online library for various types of coding-based courses which are taught by an **assortment of professors from different universities**.
 
+- [Wikipedia](https://en.wikipedia.org/wiki/Coursera)
 
 ## 3. [edX](https://www.edx.org/)
 
