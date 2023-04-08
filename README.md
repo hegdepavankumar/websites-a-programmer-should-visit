@@ -345,7 +345,7 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 4. [Free Youtube Resources(English)](https://ayokasystems.com/news/top-10-youtube-channels-to-learn-programming/)
 5. [Best free YouTube Channels to Learn Programming in Hindi.](https://www.blogstek.com/2021/06/6-best-hindi-youtube-channels-to-learn-programming.html)
 
-## Creator [🔝](# best-free-places-to-learn-code)
+## Creator [🔝](# best-free-sites-to-learn-code)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
 
