@@ -106,7 +106,7 @@ If you are interested in learning the nuances of Android application development
 
 ## 12. [Pluralsight](https://www.pluralsight.com/)
 
-![download](https://user-images.githubusercontent.com/85627085/230729154-aa74d62e-487f-45ee-9a1a-e9639b0e50c3.png)
+![1200x630wa](https://user-images.githubusercontent.com/85627085/230731536-6ffad4ea-d983-4e69-b756-3448ab8c2af6.png)
 
 [Pluralsight](https://www.pluralsight.com/) is another good online code learning platform, offering free and paid courses.
 
@@ -120,7 +120,7 @@ By going through such real case studies, you will have a better idea about how t
 
 ## 14. [The Odin Project](http://www.theodinproject.com/)
 
-![download (1)](https://user-images.githubusercontent.com/85627085/230729243-eb91d631-895a-492c-99e8-72580f27f7f2.png)
+![maxresdefault](https://user-images.githubusercontent.com/85627085/230731587-7bd4b0e3-dc5b-485b-af38-afb8fad5e489.jpg)
 
 This [project aims](http://www.theodinproject.com/) to help you learn web development online for free. As part of their learning process, you participate in several small projects to help you build your own portfolio of work.
 
@@ -152,7 +152,7 @@ The final goal is to save the world from machine invasion. And as a very importa
 
 ## 19. [Code Avengers](https://www.codeavengers.com/)
 
-![Code-Avengers](https://user-images.githubusercontent.com/85627085/230728753-f2b04e1f-b621-4f49-ba30-92e4ad8c0ae1.jpg)
+![download](https://user-images.githubusercontent.com/85627085/230731675-d7efc407-ab7f-406d-b0c9-3ecd95d627ed.jpg)
 
 Code Avengers is aimed at kids from 5 to 14 and gives them a fun and interactive programming learning environment. 
 
@@ -219,7 +219,7 @@ While this platform offers advanced and intermediate courses, it doesn't offer i
 
 ## 30. [Educative.io](https://www.educative.io/)
 
-![download (2)](https://user-images.githubusercontent.com/85627085/230730075-00723b0e-e620-4fc8-b920-2715f2b4432c.png)
+![download](https://user-images.githubusercontent.com/85627085/230731736-6779de30-52b7-4de3-97f7-1f1155ff8b41.png)
 
 Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff. In-browser exercises. No setup required. Free Sign-Up. Learn at your own pace.
 
@@ -251,16 +251,19 @@ CodeChef is an online educational platform and competitive programming community
 ## 35. [HackerRank](https://www.hackerrank.com/)
 
 ![download (4)](https://user-images.githubusercontent.com/85627085/230730690-60dedc59-66a6-4f46-a6fa-ddeee882aa43.png)
+
 HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Start hiring at the pace of innovation!
 
 ## 36. [LeetCode](https://leetcode.com/)
 
 ![LeetCode_Sharing](https://user-images.githubusercontent.com/85627085/230730770-ee8d58a2-0988-42ad-8f15-774da3398aa0.png)
+
 LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 ## 37. [HackerEarth ](https://www.hackerearth.com/)
 
 ![download (5)](https://user-images.githubusercontent.com/85627085/230730897-03300c3b-c3cb-4960-9093-8853f6fab5e3.png)
+
 HackerEarth is an Indian software company headquartered in San Francisco, US, that provides enterprise software that assists organizations with technical hiring. HackerEarth is used by organizations for technical skill assessments and remote video interviewing.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/HackerEarth)
@@ -274,6 +277,7 @@ Codeforces is a website that hosts competitive programming contests. It is maint
 
 ## 39. [Topcoder](https://www.topcoder.com/)
 ![topcoder logo](https://user-images.githubusercontent.com/85627085/230731135-49e0748e-bd84-4a6b-aa62-920327c4d25f.png)
+
 Topcoder is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Topcoder)
@@ -281,6 +285,7 @@ Topcoder is a crowdsourcing company with an open global community of designers, 
 ## 40. [Kaggle](http://www.kaggle.com/)
 
 ![kaggle_logo_icon_168474_4eb653edb6](https://user-images.githubusercontent.com/85627085/230731254-513e1061-ff96-46cd-bf72-3e030a5d8a39.png)
+
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Kaggle)
