@@ -298,40 +298,40 @@ However, not all of these programming channels are created equal. Some are excel
 
 Below I have added some top 10 resources and recommended by Top Industry Expert.
 
-## 41. [Programmin Knowledge](https://goo.gl/rYLwrS)
+## 1. [Programmin Knowledge](https://goo.gl/rYLwrS)
 
 Here you will find a variety of videos aimed at new programmers. The tutorials here range from an Android tutorial for beginners to Java, Python, and C++ tutorials. 
 
 Among the resources is a C programming tutorial that is considered the most comprehensive course in that language that you will find anywhere.
 
-## 42. [TreeHouse](https://goo.gl/ti7FUL)
+## 2. [TreeHouse](https://goo.gl/ti7FUL)
 
 Team Treehouse is a learning resource established with the mission of providing affordable education in technology.
 
 Teamtreehouse offers lessons on numerous topics including coding in Python and C#.
 
-## 43. [DevTips](https://goo.gl/oBjoh8)
+## 3. [DevTips](https://goo.gl/oBjoh8)
 
 DevTips will be of interest to you if you are a web designer who wants to improve your skills and if you need to learn more about coding CSS, HTML5, and other relevant topics.
 
-## 44. [Mike Locke](https://goo.gl/7woxQk)
+## 4. [Mike Locke](https://goo.gl/7woxQk)
 
 Mike Locke is an instructor and designer with over 17 years of experience. He specializes in front-end development (XHTML and CSS) among other areas. 
 
 On YouTube, he offers a range of tutorials on topics like Adobe Illustrator also well as UX design. 
 
-## 45. [Learncode Aacademy](https://goo.gl/wQqBOH)
+## 5. [Learncode Aacademy](https://goo.gl/wQqBOH)
 Will Stern’s clear and simple tutorials are focused on programming as it relates to web development. 
 
 At Learncode.academy, you will be walked through topics like JavaScript and jQuery in Stern’s efficient and thorough style.
 
-## 46. [Derek Banas](https://goo.gl/5to7EY)
+## 6. [Derek Banas](https://goo.gl/5to7EY)
 
 Banas is the creator of the hugely popular Learn JavaScript in 30 Minutes playlist. As the title of that playlist implies, Banas specializes in compact lessons for fast learning.
 
 Among the content, you will find videos like Learn the Ruby Programming Language in One Video.
 
-## 47. [TheNewBoston](https://goo.gl/cRjU6F)
+## 7. [TheNewBoston](https://goo.gl/cRjU6F)
 
 On thenewboston, you will find more than 4,200 videos that are followed by over a million subscribers. TheNewBoston is arguably the single best resource for anyone who wants to become a software developer.
 
