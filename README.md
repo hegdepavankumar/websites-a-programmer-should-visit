@@ -339,10 +339,20 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 
 ### Resources
 
-1. [Places to learn code for free in 2020](https://makeawebsitehub.com/learn-to-code-for-free/)
+1. [Places to learn code for free in 2023](https://makeawebsitehub.com/learn-to-code-for-free/)
 2. [12 Sites That Will Teach You Coding at a Low Cost, Even Free](https://www.entrepreneur.com/article/250323)
 3. [Best Places to code for free](https://learntocodewith.me/posts/code-for-free/)
-4. [Free Youtube Resources](https://ayokasystems.com/news/top-10-youtube-channels-to-learn-programming/)
+4. [Free Youtube Resources(English)](https://ayokasystems.com/news/top-10-youtube-channels-to-learn-programming/)
+5. [Best free YouTube Channels to Learn Programming in Hindi.](https://www.blogstek.com/2021/06/6-best-hindi-youtube-channels-to-learn-programming.html)
 
-Drop a star for future reference. 👨‍💻️
+## Creator [🔝](# best-free-places-to-learn-code)
+
+(https://github.com/hegdepavankumar). This Project is Created by :-
+
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+
+
+           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
