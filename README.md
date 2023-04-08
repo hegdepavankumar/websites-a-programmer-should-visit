@@ -1,5 +1,10 @@
 # best-free-places-to-learn-code
 
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/best-free-places-to-learn-code?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/best-free-places-to-learn-code?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/best-free-places-to-learn-code?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/best-free-places-to-learn-code.svg?cache=remove)
+
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
@@ -7,6 +12,7 @@ The objective of this blog is to reveal the features offered by each of the free
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
  <font color="blue"></font> 
+ ![codecademy-banner](https://user-images.githubusercontent.com/85627085/230726927-b14726eb-06fe-4e68-95cf-0fb5f29a1971.png)
 
  [Codeacademy](https://www.codecademy.com/) is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, and Swift, as well as markup languages HTML and CSS .
  
@@ -14,6 +20,7 @@ The objective of this blog is to reveal the features offered by each of the free
 
 
 ## 2. [Coursera](https://www.coursera.org/)
+![1200x630wa](https://user-images.githubusercontent.com/85627085/230727022-afd2e8dc-92b0-4475-ab3b-6b479cc1aaeb.png)
 
 [Coursera](https://www.coursera.org/) Inc. is a U.S.-based massive open online course provider founded in 2012 by Stanford University computer science professors Andrew Ng and Daphne Koller. Coursera works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
 
@@ -23,11 +30,17 @@ This is a huge online library for various types of coding-based courses which ar
 
 ## 3. [edX](https://www.edx.org/)
 
+![download](https://user-images.githubusercontent.com/85627085/230727122-e27f3f13-9dfe-4102-8a9b-02317c5747e7.png)
+
 [EdX](https://www.edx.org/) is another leading online-learning platform that is open source instead of for-profit. It was founded by **Harvard University and MIT in 2012**, so you know that you’ll learn about cutting-edge technologies and theories.
 
 Through this learning platform, you can get exposure to ```C#, Java, jQuery, C++, Python, machine learning, R programming, SQL, mobile application design or development,``` and so on.
 
+ - [Wikipedia](https://en.wikipedia.org/wiki/EdX)
+
 ## 4. [Udemy](https://www.udemy.com/)
+
+![default-meta-image-v2](https://user-images.githubusercontent.com/85627085/230727238-a1e3af8c-0151-485f-96bb-fae9d0239d21.png)
 
 Founded in 2010, [Udemy](https://www.udemy.com/) is an online learning platform that can be used as a way to improve or learn job skills. 
 
@@ -35,23 +48,36 @@ The topics covered by Udemy include personal development, lifestyle, health and 
 
 As a coder, it also offers you tonnes of development courses under different sections, such as mobile applications, programming languages, web development, game development, databases, and e-commerce.
 
+- [Wikipedia](https://en.wikipedia.org/wiki/Udemy)
+
 ## 5. [Khan Academy](https://www.khanacademy.org/)
 
-Created in 2006 by educator Salman Khan, [Khan Academy](https://www.khanacademy.org/) is one of the original free online-learning institutions.
+![download (1)](https://user-images.githubusercontent.com/85627085/230727340-8ca67a95-4ac0-47cf-b893-7dff887f78ce.png)
 
-With step-by-step video tutorials, you can learn how to program drawings, animations, and games using JavaScript and Processing JS, or learn how to create webpages with HTML and CSS. See, especially, Khan's **"Hour of Code," ** designed to introduce students to **one hour of computer science and computer programming**.
+Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Khan_Academy)
 
 ## 6. [FreeCodeCamp](https://www.freecodecamp.org/)
 
-Here in [FreeCodeCamp](https://www.freecodecamp.org/), you’ll learn HTML5, CSS3, JavaScript, Databases, React.js, Node.js, and others by networking and joining this nonprofit's community of professionals and students.
+![fcc_meta_1920X1080-indigo](https://user-images.githubusercontent.com/85627085/230727599-447880e3-7a1a-4063-86f1-48cd10fec1cd.png)
+
+
+[FreeCodeCamp](https://www.freecodecamp.org/) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/FreeCodeCamp)
 
 ## 7. [CodeWars](https://www.codewars.com/)
 
-This code learning website enables you to learn your preferred programming language by challenging you. On this **fun-based code learning platform**, you can solve one challenge at a time *(known as “kata”)* and sharpen your existing skills.
+![634816d46fc4a32b2a583416_codewars-og-image](https://user-images.githubusercontent.com/85627085/230727732-314d7635-82ce-4443-a25b-04fa13c474cc.png)
 
-Some typical programming languages taught by Codewars include JavaScript, CoffeeScript, Java, Ruby, Python, C#, and Clojure.
+[CodeWars](https://www.codewars.com/) is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment. Some typical programming languages taught by Codewars include JavaScript, CoffeeScript, Java, Ruby, Python, C#, and Clojure.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Codewars)
 
 ## 8. [GA Dash](https://dash.generalassemb.ly/)
+
+![CMYK-Red-Black_Small_GeneralAssembly-Stacked](https://user-images.githubusercontent.com/85627085/230727873-415b4d52-59f1-403a-b40d-1fd2f54756ea.png)
 
 [GA Dash](https://dash.generalassemb.ly/) introduces a fun way to learn how to make attractive websites from your browser.
 
@@ -59,15 +85,16 @@ It enables you to learn different web-based programming languages, such as JavaS
 
 The fun part is that you will be helped in learning how to make websites in the form of projects.
 
-## 9. [Udemy](https://www.udacity.com/)
+## 9. [Udacity](https://www.udacity.com/)
 
-[Udemy](https://www.udacity.com/) offers several developer-based courses. You can access all the course material for free and fine-tune your skills as a front-end web developer or as an Android or iOS developer.
+![Udacity2](https://user-images.githubusercontent.com/85627085/230728022-9e2eafff-1e39-49d0-bc9b-f44744877a4b.png)
 
-If you want to get recognized as a **“nanodegree”** holder, then you need to **pay for their courses** and get guided assistance throughout your course.
+[Udacity](https://www.udacity.com/), Inc. is an American for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses. According to Thrun, the origin of the name Udacity comes from the company's desire to be "audacious for you, the student".
 
-The platform offers several courses built by renowned companies, such as ```Google, Facebook, At&t, and Cloudera```. For example, you can access the free deep learning course by Google on the Udacity website.
+- [Wikipedia](https://en.wikipedia.org/wiki/Udacity)
 
 ## 10. [Code Conquest](http://www.codeconquest.com/)
+![Code-Conquest](https://user-images.githubusercontent.com/85627085/230728131-26c19093-9d30-4788-8d47-40309ac9076d.png)
 
 [Code Conquest](http://www.codeconquest.com/) can give you a helping hand when you are about to enter the world of coding. Even if you have no idea about what programming or coding is, the Code Conquest platform can help you learn the basics and improve thereon.
 
