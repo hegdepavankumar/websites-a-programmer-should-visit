@@ -30,7 +30,7 @@ This is a huge online library for various types of coding-based courses which ar
 
 ## 3. [edX](https://www.edx.org/)
 
-![download](https://user-images.githubusercontent.com/85627085/230727122-e27f3f13-9dfe-4102-8a9b-02317c5747e7.png)
+![1200x630wa](https://user-images.githubusercontent.com/85627085/230728339-92b6967d-3fef-4176-bca4-397994f14474.png)
 
 [EdX](https://www.edx.org/) is another leading online-learning platform that is open source instead of for-profit. It was founded by **Harvard University and MIT in 2012**, so you know that you’ll learn about cutting-edge technologies and theories.
 
@@ -52,7 +52,7 @@ As a coder, it also offers you tonnes of development courses under different sec
 
 ## 5. [Khan Academy](https://www.khanacademy.org/)
 
-![download (1)](https://user-images.githubusercontent.com/85627085/230727340-8ca67a95-4ac0-47cf-b893-7dff887f78ce.png)
+![khan-logo-dark-background-2](https://user-images.githubusercontent.com/85627085/230728283-bb54c8a9-60e8-4969-acd6-ae523fdfa777.png)
 
 Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.
 
@@ -152,6 +152,8 @@ The final goal is to save the world from machine invasion. And as a very importa
 
 ## 20. [Code Avengers](https://www.codeavengers.com/)
 
+![Code-Avengers](https://user-images.githubusercontent.com/85627085/230728753-f2b04e1f-b621-4f49-ba30-92e4ad8c0ae1.jpg)
+
 Code Avengers is aimed at kids from 5 to 14 and gives them a fun and interactive programming learning environment. 
 
  It’s also a great resource for school teachers who want to help their students code. 
@@ -164,6 +166,8 @@ If you’ve already learned the basics, and want to get into something a bit hea
 
 ## 22. [Github](https://github.com/EbookFoundation/free-programming-books/)
 
+![GitHub](https://user-images.githubusercontent.com/85627085/230728404-4316df9f-4a58-4d29-89b5-e5f28effc185.jpeg)
+
 Sometimes, you need to recall a reference book when you’re stuck on a problem. That's [GitHub](https://github.com/EbookFoundation/free-programming-books/), where the site says, over 31 million developers collaborate to host and review code, manage projects, and build [software together](https://github.com/freeCodeCamp/freeCodeCamp).
 
 ## 23. [Hackr.io](https://hackr.io/)
@@ -174,11 +178,15 @@ Simply search for the language you want to learn and you’ll get a list of the 
 
 ## 24. [W3Schools](https://www.w3schools.com/)
 
+![W3-MatFrame-895x493px-Qual100](https://user-images.githubusercontent.com/85627085/230728542-c12e283e-f4af-4b16-b5a2-257813cc6a8a.jpg)
+
  Perfect for beginner coders, W3Schools is the world’s largest web developer site, offering free coding tutorials and reference materials for learning just about every aspect of web programming. 
 
 What free coding tutorials they offer: **HTML, CSS, JavaScript, SQL, PHP, jQuery, and more**
 
 ## 25. [CoderByte](https://coderbyte.com/)
+
+![coderbyte_logo_digital_multi_light](https://user-images.githubusercontent.com/85627085/230728605-b4519052-1ce6-45a7-bc6b-0a8197a10916.png)
 
 Learn to code by doing it! Coderbyte teaches you the basics of popular programming languages and lets you build up your new skills using their library of 300+ coding challenges and solutions.
 
