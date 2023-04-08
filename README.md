@@ -104,9 +104,11 @@ The various programming languages taught by Code Conquest include PHP, JavaScrip
 
 If you are interested in learning the nuances of Android application development from scratch, then [Google Android Training](https://developer.android.com/training/index.html) can be greatly useful to you.
 
-## 12. [Code School](https://www.codeschool.com/)
+## 12. [Pluralsight](https://www.pluralsight.com/)
 
-[Code School](https://www.codeschool.com/) is another good online code learning platform, offering free and paid courses.
+![download](https://user-images.githubusercontent.com/85627085/230729154-aa74d62e-487f-45ee-9a1a-e9639b0e50c3.png)
+
+[Pluralsight](https://www.pluralsight.com/) is another good online code learning platform, offering free and paid courses.
 
 The different courses are organized in the form of paths, specific to technology and programming skills. 
 
@@ -118,31 +120,29 @@ By going through such real case studies, you will have a better idea about how t
 
 ## 14. [The Odin Project](http://www.theodinproject.com/)
 
+![download (1)](https://user-images.githubusercontent.com/85627085/230729243-eb91d631-895a-492c-99e8-72580f27f7f2.png)
+
 This [project aims](http://www.theodinproject.com/) to help you learn web development online for free. As part of their learning process, you participate in several small projects to help you build your own portfolio of work.
 
 It also offers a flexible curriculum, to which you and other students can contribute, to your learning.
 
-## 15. [A-List Apart](http://alistapart.com/)
 
-[This is a blog](http://alistapart.com/) that contains plenty of quality material, articles, and books which you will find handy while you attempt to learn programming skills.
-
-A-List Apart is the ideal reference website for people who make websites or for those who are interested in making websites.
-
-## 16. [HTML5 Rocks](http://www.html5rocks.com/en/)
+## 15. [HTML5 Rocks](http://www.html5rocks.com/en/)
 
 As the name suggests, this platform is mainly focused on learning the nuances of [HTML5](http://www.html5rocks.com/en/) which is widely used for website development and mobile application development.
 
-## 17. [SitePoint](http://www.sitepoint.com/)
+## 16. [SitePoint](http://www.sitepoint.com/)
 
 This is another highly useful [blog](http://www.sitepoint.com/) if you want quality material related to different programming languages.
 
 SitePoint contains well-detailed information on all such topics that could aid your programming journey.
 
-## 18. [After Hours Programming]((http://www.afterhoursprogramming.com/))
+## 17. [After Hours Programming]((http://www.afterhoursprogramming.com/))
 
 [After Hours Programming](http://www.afterhoursprogramming.com/) has been around for the past few years and has lots of different tutorials for learning the basic concepts of Python, PHP, and much more.
 
-## 19. [CodeEasy](https://codeasy.net/)
+## 18. [CodeEasy](https://codeasy.net/)
+![rEMuHJO3_400x400](https://user-images.githubusercontent.com/85627085/230729474-a50b88b6-8f04-4112-8b34-db97c219e643.png)
 
 Codeasy is probably the newest one from the whole list. It is quite an interesting educational course because it drives a new concept to computer science studying.
 
@@ -150,7 +150,7 @@ You start learning thereby **reading an adventure story** about fighting machine
 
 The final goal is to save the world from machine invasion. And as a very important side effect – become a software developer.
 
-## 20. [Code Avengers](https://www.codeavengers.com/)
+## 19. [Code Avengers](https://www.codeavengers.com/)
 
 ![Code-Avengers](https://user-images.githubusercontent.com/85627085/230728753-f2b04e1f-b621-4f49-ba30-92e4ad8c0ae1.jpg)
 
@@ -160,23 +160,23 @@ Code Avengers is aimed at kids from 5 to 14 and gives them a fun and interactive
 
 Because its target is at a younger age group it makes it ideal for adults to understand also who aren’t that tech-minded.
 
-## 21. [MIT Open Courseware](https://ocw.mit.edu/)
+## 20. [MIT Open Courseware](https://ocw.mit.edu/)
 
 If you’ve already learned the basics, and want to get into something a bit heavier -- such as exploring the theory behind coding -- you can take advantage of [MIT’s free courseware site (https://ocw.mit.edu/), which includes classes such as Introduction to Computer Science and Programming in Python, and language-specific courses like Java, MatLab and C, and C++.
 
-## 22. [Github](https://github.com/EbookFoundation/free-programming-books/)
+## 21. [Github](https://github.com/EbookFoundation/free-programming-books/)
 
 ![GitHub](https://user-images.githubusercontent.com/85627085/230728404-4316df9f-4a58-4d29-89b5-e5f28effc185.jpeg)
 
 Sometimes, you need to recall a reference book when you’re stuck on a problem. That's [GitHub](https://github.com/EbookFoundation/free-programming-books/), where the site says, over 31 million developers collaborate to host and review code, manage projects, and build [software together](https://github.com/freeCodeCamp/freeCodeCamp).
 
-## 23. [Hackr.io](https://hackr.io/)
+## 22. [Hackr.io](https://hackr.io/)
 
 This isn't a learn-to-code platform itself, but it's a great list of community-curated programming resources. 
 
 Simply search for the language you want to learn and you’ll get a list of the best online courses, tutorials, and books recommended by coders.
 
-## 24. [W3Schools](https://www.w3schools.com/)
+## 23. [W3Schools](https://www.w3schools.com/)
 
 ![W3-MatFrame-895x493px-Qual100](https://user-images.githubusercontent.com/85627085/230728542-c12e283e-f4af-4b16-b5a2-257813cc6a8a.jpg)
 
@@ -184,38 +184,106 @@ Simply search for the language you want to learn and you’ll get a list of the 
 
 What free coding tutorials they offer: **HTML, CSS, JavaScript, SQL, PHP, jQuery, and more**
 
-## 25. [CoderByte](https://coderbyte.com/)
+## 24. [CoderByte](https://coderbyte.com/)
 
 ![coderbyte_logo_digital_multi_light](https://user-images.githubusercontent.com/85627085/230728605-b4519052-1ce6-45a7-bc6b-0a8197a10916.png)
 
 Learn to code by doing it! Coderbyte teaches you the basics of popular programming languages and lets you build up your new skills using their library of 300+ coding challenges and solutions.
 
-## 26. [Microsoft Virtual Academy](https://mva.microsoft.com/)
+## 25. [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 Microsoft Virtual Academy’s Learning Paths are curated free coding courses designed to help you build valuable skills through video tutorials, demos, assessments, and more. 
 
 You’ll also get access to free e-books, helpful downloads, and a community support forum.
 
-## 27. [Edabit](https://edabit.com/)
+## 26. [Edabit](https://edabit.com/)
 
 Edabit is “like **Duolingo for learning to code**,” offering bite-sized coding challenges that simulate what programming is like in the real world.
 
 
-## 28. [Launch School Open Book Shelf](https://learntocodewith.me/launch-school-books)
+## 27. [Launch School Open Book Shelf](https://learntocodewith.me/launch-school-books)
 
 Written to supplement Launch School’s software engineering curriculum, these free coding books will help you learn the basic foundational building blocks of popular languages.
 
-## 29. [CodeGym](https://codegym.cc/)
+## 28. [CodeGym](https://codegym.cc/)
 
 This learn-to-code resource focuses on online Java programming courses that are 80% based on practice.
 
 You’ll start writing code almost immediately once you begin the lessons, completing 1200+ programming tasks, and getting immediate results for your solutions.
 
-## 30. [Learn to Code in 30 Minute](https://learntocodewith.me/mammoth-interactive-learn-to-code-in-just-30-minutes)
+## 29. [Sololearn](https://www.sololearn.com/)
 
-When you first start learning to code, it can seem like a monumental task that requires months or years to make meaningful progress. 
+![maxresdefault](https://user-images.githubusercontent.com/85627085/230729929-38358bb8-3042-4849-a5a4-edea77737695.jpg)
 
-This compact free course from Mammoth Interactive proves that to be a misconception! It covers **HTML, CSS, and JavaScript in short, easy-to-digest lecture chunks**. 
+While this platform offers advanced and intermediate courses, it doesn't offer in-depth programming skills. Because of this, Sololearn is an excellent place to start your development learning journey
+
+## 30. [Educative.io](https://www.educative.io/)
+
+![download (2)](https://user-images.githubusercontent.com/85627085/230730075-00723b0e-e620-4fc8-b920-2715f2b4432c.png)
+
+Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff. In-browser exercises. No setup required. Free Sign-Up. Learn at your own pace.
+
+## 31. [GeeksforGeeks](https://practice.geeksforgeeks.org/)
+
+![Student-Chapter-Article-Banner](https://user-images.githubusercontent.com/85627085/230730180-39d0943c-a326-48bf-bcef-53e5eb61c72d.png)
+
+A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles
+
+## 32. [Javatpoint](https://www.javatpoint.com/)
+
+![download (3)](https://user-images.githubusercontent.com/85627085/230730282-6257fde7-bf40-41ab-8de7-2d8d3fae174b.png)
+
+Tutorials, Free Online Tutorials, Javatpoint provides tutorials and interview questions of all technology like java tutorial, android, java frameworks, ...
+
+## 33. [Tutorialspoint](https://www.tutorialspoint.com/)
+
+![maxresdefault (1)](https://user-images.githubusercontent.com/85627085/230730385-19b0a1a0-4481-46d7-b236-a16193629e5b.jpg)
+Tutorials Point is a leading Ed Tech company striving to provide the best learning material on technical and non-technical subjects.
+
+## 34. [CodeChef](https://www.codechef.com/)
+
+![codechef-logo-startuptalky](https://user-images.githubusercontent.com/85627085/230730609-c0a2ac27-0f2c-4213-90a3-da6869c76391.jpg)
+
+CodeChef is an online educational platform and competitive programming community of global programmers. CodeChef started as an educational initiative in 2009 by Directi, an Indian software company. In 2020, it became owned by Unacademy.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/CodeChef)
+
+## 35. [HackerRank](https://www.hackerrank.com/)
+
+![download (4)](https://user-images.githubusercontent.com/85627085/230730690-60dedc59-66a6-4f46-a6fa-ddeee882aa43.png)
+HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Start hiring at the pace of innovation!
+
+## 36. [LeetCode](https://leetcode.com/)
+
+![LeetCode_Sharing](https://user-images.githubusercontent.com/85627085/230730770-ee8d58a2-0988-42ad-8f15-774da3398aa0.png)
+LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
+## 37. [HackerEarth ](https://www.hackerearth.com/)
+
+![download (5)](https://user-images.githubusercontent.com/85627085/230730897-03300c3b-c3cb-4960-9093-8853f6fab5e3.png)
+HackerEarth is an Indian software company headquartered in San Francisco, US, that provides enterprise software that assists organizations with technical hiring. HackerEarth is used by organizations for technical skill assessments and remote video interviewing.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/HackerEarth)
+
+## 38. [Codeforces](https://codeforces.com/)
+![0f6c1240-462e-47ff-870d-e2d0ebb181f1](https://user-images.githubusercontent.com/85627085/230731005-a4c6384d-9c89-4f7e-a9a2-f84d5a428932.jpg)
+
+Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov. Since 2013, Codeforces claims to surpass Topcoder in terms of active contestants. As of 2018, it has over 600,000 registered users.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Codeforces)
+
+## 39. [Topcoder](https://www.topcoder.com/)
+![topcoder logo](https://user-images.githubusercontent.com/85627085/230731135-49e0748e-bd84-4a6b-aa62-920327c4d25f.png)
+Topcoder is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Topcoder)
+
+## 40. [Kaggle](http://www.kaggle.com/)
+
+![kaggle_logo_icon_168474_4eb653edb6](https://user-images.githubusercontent.com/85627085/230731254-513e1061-ff96-46cd-bf72-3e030a5d8a39.png)
+Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners.
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Kaggle)
 
 # Additional
 
@@ -225,40 +293,40 @@ However, not all of these programming channels are created equal. Some are excel
 
 Below I have added some top 10 resources and recommended by Top Industry Expert.
 
-## 31. [Programmin Knowledge](https://goo.gl/rYLwrS)
+## 41. [Programmin Knowledge](https://goo.gl/rYLwrS)
 
 Here you will find a variety of videos aimed at new programmers. The tutorials here range from an Android tutorial for beginners to Java, Python, and C++ tutorials. 
 
 Among the resources is a C programming tutorial that is considered the most comprehensive course in that language that you will find anywhere.
 
-## 32. [TreeHouse](https://goo.gl/ti7FUL)
+## 42. [TreeHouse](https://goo.gl/ti7FUL)
 
 Team Treehouse is a learning resource established with the mission of providing affordable education in technology.
 
 Teamtreehouse offers lessons on numerous topics including coding in Python and C#.
 
-## 33. [DevTips](https://goo.gl/oBjoh8)
+## 43. [DevTips](https://goo.gl/oBjoh8)
 
 DevTips will be of interest to you if you are a web designer who wants to improve your skills and if you need to learn more about coding CSS, HTML5, and other relevant topics.
 
-## 34. [Mike Locke](https://goo.gl/7woxQk)
+## 44. [Mike Locke](https://goo.gl/7woxQk)
 
 Mike Locke is an instructor and designer with over 17 years of experience. He specializes in front-end development (XHTML and CSS) among other areas. 
 
 On YouTube, he offers a range of tutorials on topics like Adobe Illustrator also well as UX design. 
 
-## 35. [Learncode Aacademy](https://goo.gl/wQqBOH)
+## 45. [Learncode Aacademy](https://goo.gl/wQqBOH)
 Will Stern’s clear and simple tutorials are focused on programming as it relates to web development. 
 
 At Learncode.academy, you will be walked through topics like JavaScript and jQuery in Stern’s efficient and thorough style.
 
-## 36. [Derek Banas](https://goo.gl/5to7EY)
+## 46. [Derek Banas](https://goo.gl/5to7EY)
 
 Banas is the creator of the hugely popular Learn JavaScript in 30 Minutes playlist. As the title of that playlist implies, Banas specializes in compact lessons for fast learning.
 
 Among the content, you will find videos like Learn the Ruby Programming Language in One Video.
 
-## 37. [TheNewBoston](https://goo.gl/cRjU6F)
+## 47. [TheNewBoston](https://goo.gl/cRjU6F)
 
 On thenewboston, you will find more than 4,200 videos that are followed by over a million subscribers. TheNewBoston is arguably the single best resource for anyone who wants to become a software developer.
 
