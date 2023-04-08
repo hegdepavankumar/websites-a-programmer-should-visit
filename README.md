@@ -290,6 +290,12 @@ Kaggle, a subsidiary of Google LLC, is an online community of data scientists an
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Kaggle)
 
+## 41. [Coding Ninjas](https://www.codingninjas.com/)
+
+![coding-ninjas-startuptalky](https://user-images.githubusercontent.com/85627085/230747180-bd0e4f39-1f3a-4f3c-8961-9e1311ac89f8.jpg)
+
+Coding Ninjas is a place that trains passionate people in various technologies. Our core programs are intensive, immersive training that transforms people into outstanding developers. The training is provided by expert faculties who have graduated from esteemed Universities such as Stanford, IITs and IITs. They have valuable teaching experience and extensive knowledge which they share with students to guide them in becoming a great programmer or a developer.
+
 # Additional
 
 One of the best sources of tutorials is **YouTube** – it offers an abundance of channels aimed at those who want to learn about coding. 
