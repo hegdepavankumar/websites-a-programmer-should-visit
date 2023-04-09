@@ -296,6 +296,24 @@ Kaggle, a subsidiary of Google LLC, is an online community of data scientists an
 
 Coding Ninjas is a place that trains passionate people in various technologies. Our core programs are intensive, immersive training that transforms people into outstanding developers. The training is provided by expert faculties who have graduated from esteemed Universities such as Stanford, IITs and IITs. They have valuable teaching experience and extensive knowledge which they share with students to guide them in becoming a great programmer or a developer.
 
+## 42. [DataCamp](http://www.datacamp.com/)
+
+![Datacamp-Review-Logo](https://user-images.githubusercontent.com/85627085/230747284-ac474a97-0788-4387-8af2-24126d66855a.png)
+
+Meet DataCamp, the first online learning platform that focuses on building the best learning experience specifically for Data Science.
+
+## 43. [Programiz](https://www.programiz.com/)
+
+![maxresdefault](https://user-images.githubusercontent.com/85627085/230747463-bb41d96b-8a16-4d4b-acab-a93f0e718ae5.jpg)
+
+Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
+
+## 44. [Guru99](https://www.guru99.com/)
+
+![channels4_profile](https://user-images.githubusercontent.com/85627085/230747539-63ad6147-5973-4086-aa45-7fa3f21314de.jpg)
+
+Guru99 is a provider of education software. It offers selenium web driver tutorials, ethical hacking, cloud computing, compiler design, embedded systems, and other courses.
+
 # Additional
 
 One of the best sources of tutorials is **YouTube** – it offers an abundance of channels aimed at those who want to learn about coding. 
