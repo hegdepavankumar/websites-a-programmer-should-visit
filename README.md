@@ -10,6 +10,7 @@ In this article, we take a closer look at the amazing resources to learn to code
 
 The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
 
+
 ## 1. [Codeacademy](https://www.codecademy.com/)
  <font color="blue"></font> 
  ![codecademy-banner](https://user-images.githubusercontent.com/85627085/230726927-b14726eb-06fe-4e68-95cf-0fb5f29a1971.png)
