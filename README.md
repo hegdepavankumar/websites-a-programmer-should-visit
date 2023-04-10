@@ -8,6 +8,7 @@
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
+
 The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
