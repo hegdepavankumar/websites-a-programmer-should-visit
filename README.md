@@ -1,4 +1,4 @@
-# best-free-places-to-learn-code
+# best-free-sites-to-learn-code
 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/best-free-places-to-learn-code?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/best-free-places-to-learn-code?style=flat)
