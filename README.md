@@ -369,6 +369,15 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 4. [Free Youtube Resources(English)](https://ayokasystems.com/news/top-10-youtube-channels-to-learn-programming/)
 5. [Best free YouTube Channels to Learn Programming in Hindi.](https://www.blogstek.com/2021/06/6-best-hindi-youtube-channels-to-learn-programming.html)
 
+
+## Instructions
+1).Fork this repository <br>
+2).Clone the forked repository  <br>
+3).Add your contributions (code or documentation)  <br>
+4).Commit and push  <br>
+5).Wait for pull request to be merged  <br>
+
+
 ## Creator [🔝](# best-free-sites-to-learn-code)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
@@ -376,7 +385,15 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
-           Hey Everyone Please Drop a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
 
+
+ <!-- Support Me --> 
+
+ 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
