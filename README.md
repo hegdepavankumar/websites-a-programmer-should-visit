@@ -15,7 +15,7 @@ The objective of this blog is to reveal the features offered by each of the free
  <font color="blue"></font> 
  ![codecademy-banner](https://user-images.githubusercontent.com/85627085/230726927-b14726eb-06fe-4e68-95cf-0fb5f29a1971.png)
 
- [Codeacademy](https://www.codecademy.com/) is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, and Swift, as well as markup languages HTML and CSS .
+ [Codeacademy](https://www.codecademy.com/) is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, and Swift, as well as markup languages HTML and CSS.
  
  - [Wikipedia](https://en.wikipedia.org/wiki/Codecademy)
 
