@@ -5,7 +5,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/best-free-places-to-learn-code?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/best-free-places-to-learn-code.svg?cache=remove)
 
-
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
 
