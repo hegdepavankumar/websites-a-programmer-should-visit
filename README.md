@@ -1,9 +1,9 @@
-# best-free-sites-to-learn-code
+# LearnHub
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/best-free-places-to-learn-code?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/best-free-places-to-learn-code?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/best-free-places-to-learn-code?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/best-free-places-to-learn-code.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/LearnHub?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/LearnHub?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/LearnHub?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/LearnHub.svg?cache=remove)
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
