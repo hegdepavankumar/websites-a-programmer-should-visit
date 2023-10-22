@@ -1,5 +1,7 @@
 # LearnHub
 
+The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
+
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/LearnHub?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/LearnHub?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/LearnHub?style=flat)
