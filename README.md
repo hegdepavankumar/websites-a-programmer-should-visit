@@ -1,16 +1,16 @@
 # LearnHub
 
-The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
+The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/LearnHub?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/LearnHub?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/LearnHub?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/LearnHub?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/LearnHub?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/LearnHub?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/LearnHub.svg?cache=remove)
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
 
-The objective of this blog is to reveal the features offered by each of the free code learning resources to encourage you to start coding on your own.
+The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
  <font color="blue"></font> 
@@ -34,7 +34,7 @@ This is a huge online library for various types of coding-based courses which ar
 
 ![1200x630wa](https://user-images.githubusercontent.com/85627085/230728339-92b6967d-3fef-4176-bca4-397994f14474.png)
 
-[EdX](https://www.edx.org/) is another leading online-learning platform that is open source instead of for-profit. It was founded by **Harvard University and MIT in 2012**, so you know that you’ll learn about cutting-edge technologies and theories.
+[EdX](https://www.edx.org/) is another leading online learning platform that is open source instead of for-profit. It was founded by **Harvard University and MIT in 2012**, so you know that you’ll learn about cutting-edge technologies and theories.
 
 Through this learning platform, you can get exposure to ```C#, Java, jQuery, C++, Python, machine learning, R programming, SQL, mobile application design or development,``` and so on.
 
@@ -56,7 +56,7 @@ As a coder, it also offers you tonnes of development courses under different sec
 
 ![khan-logo-dark-background-2](https://user-images.githubusercontent.com/85627085/230728283-bb54c8a9-60e8-4969-acd6-ae523fdfa777.png)
 
-Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.
+Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan. Its goal is to create a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Khan_Academy)
 
@@ -73,7 +73,7 @@ Khan Academy is an American non-profit educational organization created in 2008 
 
 ![634816d46fc4a32b2a583416_codewars-og-image](https://user-images.githubusercontent.com/85627085/230727732-314d7635-82ce-4443-a25b-04fa13c474cc.png)
 
-[CodeWars](https://www.codewars.com/) is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment. Some typical programming languages taught by Codewars include JavaScript, CoffeeScript, Java, Ruby, Python, C#, and Clojure.
+[CodeWars](https://www.codewars.com/) is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages and are completed within an online integrated development environment. Some typical programming languages taught by Codewars include JavaScript, CoffeeScript, Java, Ruby, Python, C#, and Clojure.
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Codewars)
 
@@ -146,11 +146,11 @@ SitePoint contains well-detailed information on all such topics that could aid y
 ## 18. [CodeEasy](https://codeasy.net/)
 ![rEMuHJO3_400x400](https://user-images.githubusercontent.com/85627085/230729474-a50b88b6-8f04-4112-8b34-db97c219e643.png)
 
-Codeasy is probably the newest one from the whole list. It is quite an interesting educational course because it drives a new concept to computer science studying.
+Codeasy is probably the newest one from the whole list. It is quite an interesting educational course because it drives a new concept in computer science.
 
 You start learning thereby **reading an adventure story** about fighting machines in the future. On your way, you’ll meet challenges that require real coding to solve. 
 
-The final goal is to save the world from machine invasion. And as a very important side effect – become a software developer.
+The final goal is to save the world from machine invasion. And as a very important side effect – becoming a software developer.
 
 ## 19. [Code Avengers](https://www.codeavengers.com/)
 
@@ -223,13 +223,13 @@ While this platform offers advanced and intermediate courses, it doesn't offer i
 
 ![download](https://user-images.githubusercontent.com/85627085/230731736-6779de30-52b7-4de3-97f7-1f1155ff8b41.png)
 
-Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff. In-browser exercises. No setup required. Free Sign-Up. Learn at your own pace.
+Leading online learning platform made by developers, created for developers. Free Trial. Text-based courses with embedded coding environments help you learn without the fluff. In-browser exercises. No setup is required. Free Sign-Up. Learn at your own pace.
 
 ## 31. [GeeksforGeeks](https://practice.geeksforgeeks.org/)
 
 ![Student-Chapter-Article-Banner](https://user-images.githubusercontent.com/85627085/230730180-39d0943c-a326-48bf-bcef-53e5eb61c72d.png)
 
-A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles
+A Computer Science portal for geeks. It contains well-written, well thought and well-explained computer science and programming articles
 
 ## 32. [Javatpoint](https://www.javatpoint.com/)
 
@@ -240,7 +240,7 @@ Tutorials, Free Online Tutorials, Javatpoint provides tutorials and interview qu
 ## 33. [Tutorialspoint](https://www.tutorialspoint.com/)
 
 ![maxresdefault (1)](https://user-images.githubusercontent.com/85627085/230730385-19b0a1a0-4481-46d7-b236-a16193629e5b.jpg)
-Tutorials Point is a leading Ed Tech company striving to provide the best learning material on technical and non-technical subjects.
+Tutorials Point is a leading Ed-Tech company striving to provide the best learning material on technical and non-technical subjects.
 
 ## 34. [CodeChef](https://www.codechef.com/)
 
@@ -260,7 +260,7 @@ HackerRank is the market-leading technical assessment and remote interview solut
 
 ![LeetCode_Sharing](https://user-images.githubusercontent.com/85627085/230730770-ee8d58a2-0988-42ad-8f15-774da3398aa0.png)
 
-LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+LeetCode is the best platform to help you enhance your skills, expand your knowledge, and prepare for technical interviews.
 
 ## 37. [HackerEarth ](https://www.hackerearth.com/)
 
@@ -296,7 +296,7 @@ Kaggle, a subsidiary of Google LLC, is an online community of data scientists an
 
 ![coding-ninjas-startuptalky](https://user-images.githubusercontent.com/85627085/230747180-bd0e4f39-1f3a-4f3c-8961-9e1311ac89f8.jpg)
 
-Coding Ninjas is a place that trains passionate people in various technologies. Our core programs are intensive, immersive training that transforms people into outstanding developers. The training is provided by expert faculties who have graduated from esteemed Universities such as Stanford, IITs and IITs. They have valuable teaching experience and extensive knowledge which they share with students to guide them in becoming a great programmer or a developer.
+Coding Ninjas is a place that trains passionate people in various technologies. Our core programs are intensive, immersive training that transforms people into outstanding developers. The training is provided by expert faculties who have graduated from esteemed Universities such as Stanford, IITs, and IITs. They have valuable teaching experience and extensive knowledge which they share with students to guide them in becoming a great programmer or a developer.
 
 ## 42. [DataCamp](http://www.datacamp.com/)
 
@@ -308,7 +308,7 @@ Meet DataCamp, the first online learning platform that focuses on building the b
 
 ![maxresdefault](https://user-images.githubusercontent.com/85627085/230747463-bb41d96b-8a16-4d4b-acab-a93f0e718ae5.jpg)
 
-Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
+Learn to code in Python, C/C++, Java, and other popular programming languages with our easy-to-follow tutorials, examples, online compilers, and references.
 
 ## 44. [Guru99](https://www.guru99.com/)
 
@@ -344,12 +344,12 @@ DevTips will be of interest to you if you are a web designer who wants to improv
 
 Mike Locke is an instructor and designer with over 17 years of experience. He specializes in front-end development (XHTML and CSS) among other areas. 
 
-On YouTube, he offers a range of tutorials on topics like Adobe Illustrator also well as UX design. 
+On YouTube, he offers a range of tutorials on topics like Adobe Illustrator as well as UX design. 
 
 ## 5. [Learncode Aacademy](https://goo.gl/wQqBOH)
 Will Stern’s clear and simple tutorials are focused on programming as it relates to web development. 
 
-At Learncode.academy, you will be walked through topics like JavaScript and jQuery in Stern’s efficient and thorough style.
+At Learncode. academy, you will be walked through topics like JavaScript and jQuery in Stern’s efficient and thorough style.
 
 ## 6. [Derek Banas](https://goo.gl/5to7EY)
 
@@ -359,7 +359,7 @@ Among the content, you will find videos like Learn the Ruby Programming Language
 
 ## 7. [TheNewBoston](https://goo.gl/cRjU6F)
 
-On thenewboston, you will find more than 4,200 videos that are followed by over a million subscribers. TheNewBoston is arguably the single best resource for anyone who wants to become a software developer.
+On thenewboston, you will find more than 4,200 videos that are followed by over a million subscribers. The NewBoston is arguably the single best resource for anyone who wants to become a software developer.
 
  The tutorials cover a range of different programming topics including developing for android and design. 
 
@@ -373,18 +373,18 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 
 
 ## Instructions
-1).Fork this repository <br>
-2).Clone the forked repository  <br>
-3).Add your contributions (code or documentation)  <br>
-4).Commit and push  <br>
-5).Wait for pull request to be merged  <br>
+1). Fork this repository <br>
+2). Clone the forked repository  <br>
+3). Add your contributions (code or documentation)  <br>
+4). Commit and push  <br>
+5). Wait for the pull request to be merged  <br>
 
 
 ## Creator [🔝](# best-free-sites-to-learn-code)
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/imhegde). This Project is Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
 
 
 <br>
@@ -395,7 +395,7 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
  <!-- Support Me --> 
 
  
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
