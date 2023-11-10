@@ -2,9 +2,9 @@
 
 The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
 
-![GitHub](https://img.shields.io/github/license/imhegde/LearnHub?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/LearnHub?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/LearnHub?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/LearnHub?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/LearnHub?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/LearnHub?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/LearnHub.svg?cache=remove)
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
@@ -382,9 +382,9 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 
 ## Creator [🔝](# best-free-sites-to-learn-code)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 
 <br>
@@ -397,5 +397,5 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
  
 if you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
