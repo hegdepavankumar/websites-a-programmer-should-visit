@@ -1,10 +1,10 @@
-# LearnHub
+# websites-a-programmer-should-visit
 
 The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/LearnHub?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/LearnHub?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/LearnHub?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/LearnHub.svg?cache=remove)
 
 In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
