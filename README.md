@@ -1,16 +1,19 @@
 # websites-a-programmer-should-visit
 
-The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
-
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/websites-a-programmer-should-visit?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/LearnHub.svg?cache=remove)
 
-In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
-
 
 The objective of this blog is to reveal the features offered by each of the free code-learning resources to encourage you to start coding on your own.
+
+## Some useful websites for programmers.
+
+- When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know 😉
+
+- In this article, we take a closer look at the amazing resources to learn to code for free all you will need is **access to an internet connection** and a **laptop**.
+
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
  <font color="blue"></font> 
